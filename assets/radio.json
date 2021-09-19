@@ -1,0 +1,109 @@
+{
+    "radios": [
+        {
+            "id": 1,
+            "name": "zakir khan",
+            "tagline": "Aur yahan main pigal!",
+            "color": "0xffa11431",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2Fzakir.mp3?alt=media&token=4ae49e65-9be0-4856-b960-bd4e2f46d0f6",
+            "icon": "assets/zakir.jpg",
+            "image": "assets/zakir.jpg",
+            "lang": "Hindi",
+            "category": "zakir",
+            "disliked": false,
+            "order": 1
+        },
+        {
+            "id": 2,
+            "name": "anubhav bassi",
+            "tagline": "Koi sense h iss baat ka...",
+            "color": "0xff221420",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2Fbassi.mp3?alt=media&token=d46afa02-8aee-427a-a625-958ee468929b",
+            "icon": "assets/bassi.jpg",
+            "image": "assets/bassi.jpg",
+            "lang": "Hindi",
+            "disliked": false,
+            "category": "bassi",
+            "order": 2
+        },
+        {
+            "id": 3,
+            "name": "harsh gujral",
+            "tagline": "Neend ni aari__BTech krle",
+            "color": "0xff04080b",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2Fharsh.mp3?alt=media&token=04a991b1-e327-4cbf-ac40-1a0828c24857",
+            "icon": "assets/harsh.jpg",
+            "image": "assets/harsh.jpg",
+            "lang": "Hindi",
+            "disliked": false,
+            "category": "harsh",
+            "order": 3
+        },
+        {
+            "id": 4,
+            "name": "apoorav gupta",
+            "tagline": "Starbuck ka hipster crowd...",
+            "color": "0xff066c53",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2FAppurv.mp3?alt=media&token=211689cf-3eea-493b-982e-314109b05218",
+            "icon": "assets/apoorav.jpg",
+            "image": "assets/apoorav.jpg",
+            "lang": "Hindi",
+            "category": "apoorav",
+            "disliked": false,
+            "order": 4
+        },
+        {
+            "id": 5,
+            "name": "mohit dudeja",
+            "tagline": "U can check any 5...",
+            "color": "0xff0d487d",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2Fmohit.mp3?alt=media&token=48273ddd-8374-4d9a-8021-e99ac1bfd3fc",
+            "icon": "assets/mohit.jpg",
+            "image": "assets/mohit.jpg",
+            "lang": "Hindi",
+            "category": "mohit",
+            "disliked": false,
+            "order": 5
+        },
+        {
+            "id": 6,
+            "name": "sundeep sharma",
+            "tagline": "Father knows better...",
+            "color": "0xff27383e",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2FSundeep.mp3?alt=media&token=1aa77eec-b249-42ab-ae66-d5dd1adeff25",
+            "icon": "assets/sundeep.jpg",
+            "image": "assets/sundeep.jpg",
+            "lang": "Hindi",
+            "category": "sundeep sharma",
+            "disliked": false,
+            "order": 6
+        },
+        {
+            "id": 7,
+            "name": "abhishek",
+            "tagline": "Aan bhyii aa gya swad...",
+            "color": "0xffa06a37",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2Fabhishek.mp3?alt=media&token=9a471c8e-59b6-4f49-b6f6-88f00a3de0f5",
+            "icon": "assets/abhishek.jpg",
+            "image": "assets/abhishek.jpg",
+            "lang": "Hindi",
+            "category": "abhishek",
+            "disliked": false,
+            "order": 7
+        },
+        {
+            "id": 8,
+            "name": "akash gupta",
+            "tagline": "Hello brother idhar hello...",
+            "color": "0xff090909",
+            "url": "https://firebasestorage.googleapis.com/v0/b/mini-bfe64.appspot.com/o/ausio%2Fakash.mp3?alt=media&token=0c545ee8-c683-45bc-a3e4-10bcd8f07b6c",
+            "icon": "assets/akash.jpg",
+            "image": "assets/akash.jpg",
+            "lang": "Hindi",
+            "category": "akash",
+            "disliked": false,
+            "order": 8
+        }
+    ]
+   
+}
